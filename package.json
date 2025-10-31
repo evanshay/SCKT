@@ -1,0 +1,20 @@
+{
+  "name": "sckt",
+  "version": "1.0.0",
+  "description": "Check out my fancy new app! (Internal for test purposes only)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanshay/SCKT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanshay/SCKT/issues"
+  },
+  "homepage": "https://github.com/evanshay/SCKT#readme"
+}
